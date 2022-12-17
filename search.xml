@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Graphics模块安装</title>
+      <link href="/2022/12/18/graphics%E6%A8%A1%E5%9D%97%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/"/>
+      <url>/2022/12/18/graphics%E6%A8%A1%E5%9D%97%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关于graphics模块安装问题</p><hr><p>目前graphics模块已经无法通过pip install 进行安装了</p><p>通过测试可以打开链接：<a href="https://mcsp.wartburg.edu//zelle/python/graphics.py">https://mcsp.wartburg.edu//zelle/python/graphics.py</a> 复制源码进行下载保存到graphics.py的文件中(文件需要自己创建)，</p><p>然后将文件复制到python解释器的安装目录的文件夹(可以通过cmd键入：<code>where python</code>  的方式 ，回车会返回电脑中python的安装路径)</p><p><code>python\Lib\site-packages</code>下即可，</p><p><code>PS：Anaconda解释器中的python路径同理</code></p><p>博主Anaconda中的python解释器路径：D:\Anaconda\Lib\site-packages</p><p>Graphics官方文档</p><p>链接：<a href="https://en.wikipedia.org/wiki/Graphics">https://en.wikipedia.org/wiki/Graphics</a></p><p>如果出现链接打不开的情况，可能需要借助科学上网的方法，或者直接找博主要一下文件即可</p><h2 id="觉得该文章对您有帮助，麻烦来个三连支持-目前暂时没做好，后续一定整上-感谢您的观看，欢迎下次再见，拜拜"><a href="#觉得该文章对您有帮助，麻烦来个三连支持-目前暂时没做好，后续一定整上-感谢您的观看，欢迎下次再见，拜拜" class="headerlink" title="觉得该文章对您有帮助，麻烦来个三连支持(目前暂时没做好，后续一定整上)感谢您的观看，欢迎下次再见，拜拜"></a>觉得该文章对您有帮助，麻烦来个三连支持(目前暂时没做好，后续一定整上)<br>感谢您的观看，欢迎下次再见，拜拜</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 必看内容 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>给客官的一封信</title>
       <link href="/2022/12/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2022/12/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
