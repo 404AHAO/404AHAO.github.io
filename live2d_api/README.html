@@ -6,10 +6,10 @@
 <li>支持 同分组 多个模型 或 多个路径 的 加载切换</li>
 </ul>
 <h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><h3 id="环境要求"><a href="#环境要求" class="headerlink" title="环境要求"></a>环境要求</h3><ul>
-<li>PHP 版本 &gt;&#x3D; 5.2</li>
+<li>PHP 版本 &gt;= 5.2</li>
 <li>依赖 PHP 扩展：json</li>
 </ul>
-<h3 id="目录结构"><a href="#目录结构" class="headerlink" title="目录结构"></a>目录结构</h3><pre><code class="shell">│  model_list.json              // 模型列表
+<h3 id="目录结构"><a href="#目录结构" class="headerlink" title="目录结构"></a>目录结构</h3><pre><code class="lang-shell">│  model_list.json              // 模型列表
 │
 ├─model                         // 模型路径
 │  └─GroupName                  // 模组分组
@@ -33,7 +33,7 @@
 </ul>
 </li>
 </ul>
-<pre><code class="shell">│  index.json
+<pre><code class="lang-shell">│  index.json
 │  model.moc
 │  textures.cache       // 皮肤列表缓存，自动生成
 │
@@ -51,11 +51,7 @@
 <li>单模型 多组皮肤 递归穷举<ul>
 <li>多组皮肤 组合模型、穷举组合</li>
 <li>皮肤文件夹按 <code>texture_XX</code> 命名</li>
-<li>添加 <code>textures_order.json</code> 列出组合</li>
-</ul>
-</li>
-</ul>
-<pre><code class="shell">│  index.json
+<li>添加 <code>textures_order.json</code> 列出组合<pre><code class="lang-shell">│  index.json
 │  model.moc
 │  textures.cache
 │  textures_order.json
@@ -79,18 +75,22 @@
 │      02.png
 │
 └─texture_03
-       00.png
-       01.png
+ 00.png
+ 01.png
 </code></pre>
+</li>
+</ul>
+</li>
+</ul>
 <p>textures_order.json</p>
-<pre><code class="json">[
+<pre><code class="lang-json">[
     [&quot;texture_00&quot;],
     [&quot;texture_01&quot;,&quot;texture_02&quot;],
     [&quot;texture_03&quot;]
 ]
 </code></pre>
 <p>textures.cache</p>
-<pre><code class="json">[
+<pre><code class="lang-json">[
     [&quot;texture_00/00.png&quot;,&quot;texture_01/00.png&quot;,&quot;texture_02/00.png&quot;,&quot;texture_03/00.png&quot;],
     [&quot;texture_00/00.png&quot;,&quot;texture_01/00.png&quot;,&quot;texture_02/00.png&quot;,&quot;texture_03/01.png&quot;],
     [&quot;texture_00/00.png&quot;,&quot;texture_01/01.png&quot;,&quot;texture_02/01.png&quot;,&quot;texture_03/00.png&quot;],
@@ -105,7 +105,7 @@
 </ul>
 </li>
 </ul>
-<pre><code class="shell">│
+<pre><code class="lang-shell">│
 ├─model
 │  ├─Group1
 │  │  ├─Model1
@@ -128,7 +128,7 @@
 │
 </code></pre>
 <p>model_list.json</p>
-<pre><code class="json">{
+<pre><code class="lang-json">{
     &quot;models&quot;: [
         &quot;GroupName/ModelName&quot;,
         [
