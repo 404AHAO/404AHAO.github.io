@@ -8,16 +8,30 @@
       <link href="/posts/22bb.html"/>
       <url>/posts/22bb.html</url>
       
-        <content type="html"><![CDATA[<p>果然太久没写文章就是容易出问题，这篇文章其实是跟上一篇文章：</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="缘由"><a href="#缘由" class="headerlink" title="缘由"></a>缘由</h1><p>果然太久没写文章就是容易出问题，这篇文章其实是跟上一篇文章：</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://cloud.ahao.ah.cn/posts/bcf2.html">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">执行hexo d报错&&解决方案</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>同时遇到的</p><p>起因是因为太久没更新主题版本，想着顺便更新一下 <code>AnZhiYu</code>主题的版本，结果出现了报错：<code>Failed to connect to github.com port 443: Timed out</code></p><p>原本以为是因为用了<code>dev</code>版本的缘故，所以出现<code>bug</code>了，后面开了<code>魔法</code>发现还是无法更新版本，甚至连<code>稳定的版本</code>都下载不下来</p><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><ol><li>查看是否能正常打开<code>github</code></li></ol><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">GitHub官网链接</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>因为我开了<code>魔法</code>，所以查看的时候是可以的，说明没问题</p><ol start="2"><li>最后上百度查了相关问题的解决方法</li></ol><ul><li><p>有魔法：就继续挂魔法，然后使用下方命令(选其一即可)<br>命令格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy http://127.0.0.1:7890</span><br><span class="line"></span><br><span class="line">git config --global https.proxy http://127.0.0.1:7890</span><br><span class="line"></span><br></pre></td></tr></table></figure></li><li><p>没有魔法：就试着清理魔法缓存(选其一即可)<br>命令如下:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line"></span><br><span class="line">git config --global --unset https.proxy</span><br><span class="line"></span><br></pre></td></tr></table></figure></li></ul><ol start="3"><li>如果以上两个命令都没用的话，就试下最后一个，忽略 <code>SSL</code> 的验证</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.sslVerify false</span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>如果上面的方法都没法解决的话，就只能下载 <code>GitHub</code>的客户端了，相关方法博主已经放到了</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://baidu.com/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">百度官网</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>中供各位翻看查阅了</p>]]></content>
       
       
+      <categories>
+          
+          <category> 必看内容 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AHao </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>oo5</title>
+      <title>执行hexo d报错&amp;&amp;解决方案</title>
       <link href="/posts/bcf2.html"/>
       <url>/posts/bcf2.html</url>
       
