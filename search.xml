@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>如何在手机上安装巨魔</title>
+      <link href="/posts/b584.html"/>
+      <url>/posts/b584.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="为什么要安装巨魔？"><a href="#为什么要安装巨魔？" class="headerlink" title="为什么要安装巨魔？"></a>为什么要安装巨魔？</h1><p>大家都知道苹果手机是无法同时下载相同的两个应用的，例如多开微信、QQ等等。很多小伙伴可能在使用的有两个甚至三个微信</p><p>这个时候有钱的小伙伴直接再买一部手机或者换一部安卓系统的手机就解决了&gt;.&lt;,当然手机太多也不方便携带，这个时候就可以使用巨魔实现多开自由了</p><p>下面介绍一下巨魔</p><h1 id="巨魔-gt-gt-TrollStore-lt-lt"><a href="#巨魔-gt-gt-TrollStore-lt-lt" class="headerlink" title="巨魔&gt;&gt;TrollStore&lt;&lt;"></a>巨魔&gt;&gt;TrollStore&lt;&lt;</h1><p>TrollStore 是一款永久授权的受限应用程序，可以永久安装您在其中打开的任何 IPA。</p><p>它的工作原理是由于 <code>AMFI/CoreTrust</code> 存在一个错误，即 <code>iOS</code> 无法正确验证有多个签名者的二进制文件的代码签名。</p><p>支持的版本：14.0 beta 2 - 16.6.1、16.7 RC (20H18)、17.0</p><p>官方网站: <a href="https://github.com/opa334/TrollStore">https://github.com/opa334/TrollStore</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>你好，非鱼 再见，非鱼</title>
       <link href="/posts/6a2a.html"/>
       <url>/posts/6a2a.html</url>
