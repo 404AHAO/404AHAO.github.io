@@ -1,0 +1,166 @@
+- class_name: 关于页
+  subtitle: 人间值得，未来可期✨
+  avatarImg: https://image.ahao.ah.cn/%E4%B8%8D%E5%B1%91.jpg
+  avatarSkills:
+    # left:
+    #   - 🤖️ 数码科技爱好者
+    #   - 🔍 分享与热心帮助
+    #   - 🏠 智能家居小能手
+    #   - 🔨 设计开发一条龙
+    # right:
+    #   - 专修交互与设计 🤝
+    #   - 脚踏实地行动派 🏃
+    #   - 团队小组发动机 🧱
+    #   - 壮汉人狠话不多 💢
+    left:
+      - 🤖️ 数码爱好者
+      - 🔍 不解决不放弃
+      - 🏠 智能家居小能手
+      - 🔨 开发小萌新
+    right:
+      - 折腾劲 MAX 🤝
+      - 脚踏实地行动派 🏃
+      - 践踏各种困难 🧱
+      - 话多人不狠 💢
+  name: 阿豪
+  description: 是一名 python工程师、吉他爱好者、不知名ikun头子、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    item:
+      - python
+    img: https://image.ahao.ah.cn/6330e9bcc39cc.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://image.ahao.ah.cn/632d634f8376d.jpg
+  map:
+    title: 我现在住在 
+    StrengthenTitle: 中国，广东市
+    background: https://image.ahao.ah.cn/bdf70b158e312c6c2deaff41c750874.jpg 
+    backgroundDark: https://image.ahao.ah.cn/28a1058697deb5ce73171847869d338.jpg 
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 1999
+    selfInfoTips2: 
+    selfInfoContent2: 
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 摆烂中😃
+  personalities:
+    author_name: 执政官
+    personality_type: ESFJ-A
+    photo_url: https://image.ahao.ah.cn/4b7b796560657cee3d768bcb670a4ac.jpg   
+    personality_img: https://image.ahao.ah.cn/ESFJ-A.svg
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 人间值得，
+    maxim_bottom: 未来可期。
+  buff:
+    buff_tips: 特长
+    buff_top: 擅长摆烂
+    buff_bottom: 摆烂指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: ""
+    game_bg: https://image.ahao.ah.cn/63a079ca63c8a.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 剑网3·侠肝义胆沈剑心
+        href: https://www.bilibili.com/bangumi/media/md28229725
+        cover: https://image.ahao.ah.cn/89c5de819770f1cdf71de069a343192e78991d4e.png@282w_375h.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://image.ahao.ah.cn/6398864e572ed.webp
+      - name: 中国古诗词动漫 
+        href: https://www.bilibili.com/bangumi/media/md7312
+        cover: https://image.ahao.ah.cn/f43cd147ebb5dacc1c38e5eb7a266276c58292b4.png@282w_375h.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://image.ahao.ah.cn/639886403d472.webp
+      - name: 哑舍
+        href: https://www.bilibili.com/medialist/detail/ml1320699580
+        cover: https://image.ahao.ah.cn/03c8868c8fa0b92ff8ddd8fefe4dd9cbc1da3925.jpg@140w_80h_1c.webp
+
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://image.ahao.ah.cn/632f0dd8f33c6.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 周杰伦、中国风、华语流行
+    music_bg: https://image.ahao.ah.cn/48e02c10406667d15951c10cbe2ff91.jpg
+    music_link: /music
+  reward_list:
+    - name: 怪老二
+      amount: 50
+      datatime: 2024-01-27
+
+    - name: 探小鱼
+      amount: 19
+      datatime: 2024-01-02
+      suffix: 贝壳
+    - name: 7!
+      amount: 88
+      datatime: 2022-09-07
+    - name: 热河
+      amount: 78.8
+      datatime: 2022-08-27
+    # - name: LK66
+    #   amount: 66.6
+    #   datatime: 2023-03-24
+    # - name: 张时貳
+    #   amount: 6.6
+    #   datatime: 2023-01-22
+    # - name: ZeroAf
+    #   amount: 9.9
+    #   datatime: 2022-12-14
+    # - name: LuckyWangXi
+    #   amount: 6.6
+    #   datatime: 2022-12-14
+    # - name: 刀中日月长
+    #   amount: 10
+    #   datatime: 2022-11-16
+    # - name: 鹿啵包
+    #   amount: 10
+    #   datatime: 2022-11-08
+    # - name: 疾速k
+    #   amount: 50
+    #   datatime: 2022-09-20
+    # - name: 伴舟先生大霖子
+    #   amount: 4.03
+    #   datatime: 2022-10-27
+    #   suffix: 贝壳
+    # - name: 名字就是要短像这样
+    #   amount: 3.36
+    #   datatime: 2022-08-25
+    #   suffix: 贝壳
+    # - name: Leviathan520
+    #   amount: 1.34
+    #   datatime: 2022-08-23
+    #   suffix: 贝壳
+    # - name: 托马斯
+    #   amount: 10
+    #   datatime: 2022-08-19
+    # - name: 哇是猫猫欸
+    #   amount: 1.34
+    #   datatime: 2022-08-19
+    #   suffix: 贝壳
+
+  extra: true

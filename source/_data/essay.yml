@@ -1,0 +1,183 @@
+- class_name: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 使用 即刻短文静态部署版 构建 
+  # 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://image.ahao.ah.cn/wallhaven-l8zly2.png
+ 
+  essay_list:
+    - content: 最近终于不会每天内耗了，很喜欢Tim的一句话：“如果你把视野不往长了看，往短了看、短到一个极限的感觉”，例如：再过几分钟我可以跑去吃自己特别想吃到的东西，开车一个多小时后就可以见到许久不见或者很想见到的人或物，把到未来的期待压缩到一天之内甚至几个小时之内，不在去想太久之后的东西，感觉每天多了很多期待跟动力，最好玩的是朋友说叫我赶紧练琴，到时候我俩去大理找回场子，哈哈哈哈
+      date: 2024/10/15
+      from: 阿豪
+
+    - content: 不知道什么时候开始，好像每天都会自我内耗，以前热爱的事情渐渐没什么热情继续进行下去，偶尔三分钟热度，经常偶尔~
+      date: 2024/07/23
+      from: 阿豪
+
+    - content: 更新一下最近日常的动态照片😝
+      date: 2024/06/29
+      from: 阿豪
+
+    - content: 又是几个月没更新动态，等最近一段时间回来忙完后再好好梳理一下23年的年度总结，感觉过去的一年里经历了好多事，但到最后终究还是"一个人"！
+      date: 2024/03/06
+      from: 阿豪
+
+    - content: 好耶！终于更新了! 高呼吾名，阿萨sin~
+      date: 2024/01/26
+      link: https://www.bilibili.com/bangumi/play/ss34277
+      from: 沈剑心
+    
+    - content: 新歌来啦~~
+      date: 2023/12/21
+      aplayer:
+        server: tencent
+        id: 0016aXcd24qSC8
+
+    - content: 这是一个流行离开的世界，但是我们都不擅长告别。
+      date: 2023/12/11
+      from: 米兰·昆德拉
+
+    # - content: 人啊，只有在失去了某个东西之后才会懂得珍惜。可如果你已经提前知道了这个东西注定会失去，你还会忍住不去珍惜吗？
+    #   date: 2023/11/25
+
+    # - content: 即使知道以后不会有任何交际，但心里还是有些许落寞
+    #   date: 2023/11/22
+
+    - content: 看到另一个时空的自己，还有新时代自己的另一个版本，还是觉得有点神奇，嘿嘿~
+      date: 2023/11/19
+      from: 阿豪
+
+    # - content: 怎么会有人认识都快10年了，跟我说小我几岁的，还是住院了去探视跟她奶奶聊天才知道，真是极度过分
+    #   date: 2023/11/18
+
+    # - content: 短暂的在别人的世界停留之后便销声匿迹
+    #   date: 2023/11/17
+
+    - content: 好耶！终于快更新了
+      date: 2023/11/15
+      link: https://b23.tv/ep776043
+      from: 沈剑心
+
+    - content: 在记忆完全模糊之前，写一篇关于过去的文章
+      date: 2023/11/04
+      link: https://cloud.ahao.ah.cn/posts/77b3.html
+      from: 阿豪
+
+    # - content: 安知鱼主题指南
+    #   date: 2023/09/09
+    #   video:
+    #     - https://player.bilibili.com/player.html?aid=226886152&bvid=BV1Ch41137tR&cid=1081639816&p=1&autoplay=0
+
+    - content: 可恶，最近怎么老是做噩梦，我就想睡个好觉啊，魂淡！！！
+      date: 2023/10/19
+      image: 
+        - https://image.ahao.ah.cn/f1f38efc9e08cfb5b2fc20c248cf176.png 
+      from: 阿豪
+
+    - content: 当丁达尔效应出现时，光便有了形状
+      date: 2023/10/15
+      image:
+        - https://image.ahao.ah.cn/a_104.jpg
+        - https://image.ahao.ah.cn/a_105.jpg
+        - https://image.ahao.ah.cn/a_106.jpg
+      from: 阿豪
+        
+
+    # - content: 今天翻看自己隐藏相册的时候发现有点忘记自己是什么样子的了，好像很久没有真正开心过，每天过着“千方一律”的生活，越来越忘了自己到底想要什么，从今天开始试着“找回自己”
+    #   date: 2023/10/11
+
+    # - content: 25岁的张有志拖着疲惫的身躯，站在风中回想起几年前射出的那颗“子弹”，在今天直击胸膛，仿佛知道命运般释怀了
+    #   date: 2023/10/06
+    #   aplayer:
+    #     server: tencent
+    #     id: 000vMVMQ2W9Pm4
+        # songmid
+
+    - content: 好耶！雨勋老师的新专辑Y宇宙中的 《纟纟》，超好听的！！！
+      date: 2023/09/01
+      aplayer:
+        server: tencent
+        id: 0026nSIj2QKFEL
+
+    - content: 由于日本不顾我方严正声明与国际抗议，一意孤行，于 2023 年 8 月 24 日将核废水排入大海，本着国际环保主义的内心，拥有国际环保意识的我只能单方面制裁，禁止日本地区访问旗下所有业务，希望日方能够尽快悔过自新，明白事情的严重性！😤
+      date: 2023/08/24
+
+    - content: 最近特喜欢听的歌
+      date: 2023/07/18
+      aplayer:
+        server: tencent
+        id: 003McRJm1PLWBU
+
+    # - content: OK👌
+    #   date: 2023/05/14
+    #   image: 
+    #     - https://image.ahao.ah.cn/7638a7225e59d49d6e04eeaf620cf5d.jpg
+
+    - content: 歌曲推荐
+      date: 2023/05/12
+      aplayer:
+        server: tencent
+        id: 003nie6G4YDE6a
+
+    - content: 歌曲推荐
+      date: 2023/05/09
+      aplayer:
+        server: tencent
+        id: 000SntkF2yaFIh
+  
+    - content: 好耶ヽ(✿ﾟ▽ﾟ)ノ，偶遇了歌迷群的小伙伴，还拿到了周董以及雨勋老师两位签名的专辑CD，今晚太开心了ヾ(≧∇≦*)ゝ
+      date: 2023/04/30
+      from: 周杰伦音乐总监、黄雨勋
+      image:
+        - https://image.ahao.ah.cn/ffe62870e0678d7741e208fdcbc9243.jpg 
+        - https://image.ahao.ah.cn/f11218f31eadf011b6d6b985db8bcba.jpg
+        - https://image.ahao.ah.cn/e941884f35304610b479f1ba337d6d5.jpg
+
+    - content: 生日快乐😋
+      date: 2023/01/18
+      image: 
+        - https://image.ahao.ah.cn/20230426044333.jpg
+        - https://image.ahao.ah.cn/20230426044532.jpg
+      from: 周杰伦
+
+    - content: 音乐支持了参数设置自定义歌单
+      date: 2023/01/02
+      link: https://ahao.ah.cn/music/
+
+    - content: 好耶，专属音乐界面，可以点击链接在线查看一波。
+      date: 2023/01/02
+      link: https://ahao.ah.cn/music/?id=1708664797&server=tencent
+      image:
+        - https://image.ahao.ah.cn/20230425110137.jpg
+        - https://image.ahao.ah.cn/20230425110127.jpg
+        - https://image.ahao.ah.cn/20230425110021.png
+
+    - content: 最近降温了，所以给博客安装上了小空调，提高一下博客温度，温暖一下大家。
+      date: 2022/11/28
+      image:
+        - https://image.ahao.ah.cn/638471e5a5ae0.webp
+      link: https://ahao.ah.cn/air-conditioner/
+    # - content: 把页脚, 首页顶部全都魔改到本地了, 方便后续魔改, 音乐也改成胶囊的样式了, 其实还是想让胶囊可拖拽, 不可点击改变歌词位置的, 但是弄了半天都没弄好就放弃了
+    #   date: 2022/11/13
+    # - content: 朋友圈船新版本终于写完了, 耶✌️
+    #   date: 2022/11/05
+    #   link: https://anzhiy.cn/album/
+    - content: 终于把相册集搞定了, 耶✌️, 瀑布流在滑动滚动条一个视口范围上下100的情况执行一次, 到底部停止监听让性能高了好多，再也不会布局混乱🤪了
+      date: 2022/10/25
+      link: https://ahao.ah.cn/album/
+    # - content: 搜索🔍支持缩略图显示啦（默认获取文章内容的第一张图片）
+    #   date: 2022/10/23 08:00:00
+    #   from: 安知鱼
+    - content: 歌曲推荐
+      date: 2022/09/25
+      aplayer:
+        server: tencent
+        id: 001FGQba3i10mw
+        
+    - content: 剑网3·侠肝义胆沈剑心是真的好看！
+      date: 2022/09/21
+      link: https://www.bilibili.com/bangumi/play/ss34277?spm_id_from=333.337.0.0
+    

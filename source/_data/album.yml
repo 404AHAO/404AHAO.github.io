@@ -1,0 +1,235 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://image.ahao.ah.cn/635678ad29927.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2023-10-15
+      content: 黄岐山上的一角。
+      address: 广东揭阳
+      from: ''
+      image:
+        - https://image.ahao.ah.cn/28.jpg
+        - https://image.ahao.ah.cn/30.jpg
+        - https://image.ahao.ah.cn/29.jpg
+        - https://image.ahao.ah.cn/27.jpg
+
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://image.ahao.ah.cn/635880159f9e4.webp
+    - date: 2022-10-24
+      content: 湖南信息学院长椅下的夕阳。
+      address: 湖南长沙
+      from: ''
+      image:
+        - https://image.ahao.ah.cn/638471e5a5ae01.webp
+        - https://image.ahao.ah.cn/635678ad4725a.webp
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些生活碎片与有趣的事情。
+  cover: https://image.ahao.ah.cn/wallhaven-we1z77.jpg
+  album_list: 
+    - date: 2024-06-29
+      content: 今年前半年去玩的一些地方，以及拍了各种奇奇怪怪的日常照片，由于照片有点多就不整理了😝
+      from: 阿豪
+      image:
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051008.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051009.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051010.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051011.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051012.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051013.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051014.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051015.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051016.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051017.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051018.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051019.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051020.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130509441.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130509491.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130509521.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130509551.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130509571.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130510011.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130510111.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202407130510201.jpg
+        - https://image.ahao.ah.cn/20240713050752.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050940.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050941.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050942.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050943.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050944.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050945.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050946.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050947.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050948.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050949.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050950.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050952.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050954.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050955.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050956.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050957.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050958.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713050959.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051000.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051001.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051002.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051003.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051004.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051005.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051006.jpg
+        - https://image.ahao.ah.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240713051007.jpg
+
+    - date: 2023-10-29
+      content: 逛吃逛吃，还有好多没拍照没吃上，过段时间修养完再去吃😝
+      address: 广东普宁
+      from: 阿豪
+      image:
+        - https://image.ahao.ah.cn/20231102021644.webp
+        - https://image.ahao.ah.cn/20231102021722.webp
+        - https://image.ahao.ah.cn/20231102021736.webp
+        - https://image.ahao.ah.cn/20231102021749.webp
+        - https://image.ahao.ah.cn/20231102021802.webp
+        - https://image.ahao.ah.cn/20231102021815.webp
+        - https://image.ahao.ah.cn/20231102021827.webp
+        - https://image.ahao.ah.cn/20231102021838.webp
+        - https://image.ahao.ah.cn/20231102021849.webp
+        - https://image.ahao.ah.cn/20231102021900.webp
+        - https://image.ahao.ah.cn/20231102021912.webp
+        - https://image.ahao.ah.cn/20231102021925.webp
+        - https://image.ahao.ah.cn/20231102021938.webp
+        - https://image.ahao.ah.cn/20231102021950.webp
+        - https://image.ahao.ah.cn/20231102022002.webp
+
+    - date: 2023-06-09
+      content: 老家的天空
+      address: 广东普宁
+      from: 阿豪
+      image: 
+        - https://image.ahao.ah.cn/20230612041901.jpg
+
+    - date: 2023-06-07
+      content: 新婚快乐
+      from: ''
+      image: 
+        - https://image.ahao.ah.cn/20230612040135.jpg
+        - https://image.ahao.ah.cn/20230612040240.jpg
+        - https://image.ahao.ah.cn/20230612041844.jpg
+
+    - date: 2022-10-24
+      content: 侄子侄女
+      from: 阿豪
+      image:
+        - https://image.ahao.ah.cn/68f7978917bb0207629922f1392568c.jpg
+        - https://image.ahao.ah.cn/cecbd408739f7c323b7edd212a3c554.jpg
+        - https://image.ahao.ah.cn/847d2ee0842c969690e09115a0a8bec.jpg
+
+    - date: 2021-03-06
+      content: 个人照
+      from: 阿豪
+      image:
+        - https://image.ahao.ah.cn/IMG_2823.JPG
+        - https://image.ahao.ah.cn/IMG_2833.JPG
+        - https://image.ahao.ah.cn/IMG_2835.JPG
+        - https://image.ahao.ah.cn/IMG_2850.JPG
+        - https://image.ahao.ah.cn/IMG_2852.JPG
+        - https://image.ahao.ah.cn/IMG_2853.JPG
+        - https://image.ahao.ah.cn/IMG_2855.JPG
+
+- class_name: 周杰伦合集
+  path_name: /album/jay
+  type: 2
+  description: 如果有一天，我带你去听周杰伦的演唱会，那么你对我来说一定很重要...
+  cover: https://image.ahao.ah.cn/bff88d3b8d73efd61efa02b3fd4d29b.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: true
+  url: false
+  album_list: 
+    - date: 2023-06-09
+      content: 'Jay Chou'
+      from: 阿豪
+      image: 
+        - /imgs/jay/IMG_1aa2.JPG
+        - /imgs/jay/IMG_2fce.JPG
+        - /imgs/jay/IMG_6d8d.JPG
+        - /imgs/jay/IMG_9c24.JPG
+        - /imgs/jay/IMG_9de3.JPG
+        - /imgs/jay/IMG_20e5.JPG
+        - /imgs/jay/IMG_73c2.JPG
+        - /imgs/jay/IMG_76a4.JPG
+        - /imgs/jay/IMG_81f4.JPG
+        - /imgs/jay/IMG_232n.JPG
+        - /imgs/jay/IMG_0240.jpg
+        - /imgs/jay/IMG_0421.jpg
+        - /imgs/jay/IMG_0420.jpg
+        - /imgs/jay/IMG_0448.jpg
+        - /imgs/jay/IMG_558c.JPG
+        - /imgs/jay/IMG_0662.JPG
+        - /imgs/jay/IMG_716e.JPG
+        - /imgs/jay/IMG_1336.JPG
+        - /imgs/jay/IMG_1421.jpg
+        - /imgs/jay/IMG_1423.JPG
+        - /imgs/jay/IMG_1594.JPG
+        - /imgs/jay/IMG_1595.JPG
+        - /imgs/jay/IMG_1596.JPG
+        - /imgs/jay/IMG_1597.JPG
+        - /imgs/jay/IMG_1598.JPG
+        - /imgs/jay/IMG_1599.JPG
+        - /imgs/jay/IMG_1600.JPG
+        - /imgs/jay/IMG_1601.JPG
+        - /imgs/jay/IMG_1602.JPG
+        - /imgs/jay/IMG_2247.JPG
+        - /imgs/jay/IMG_2314.JPG
+        - /imgs/jay/IMG_2646.JPG
+        - /imgs/jay/IMG_2773.jpg
+        - /imgs/jay/IMG_2780.JPG
+        - /imgs/jay/IMG_2807.JPG
+        - /imgs/jay/IMG_2808.JPG
+        - /imgs/jay/IMG_2809.JPG
+        - /imgs/jay/IMG_2810.JPG
+        - /imgs/jay/IMG_2811.JPG
+        - /imgs/jay/IMG_2812.JPG
+        - /imgs/jay/IMG_2818.jpg
+        - /imgs/jay/IMG_2820.jpg
+        - /imgs/jay/IMG_2839.jpg
+        - /imgs/jay/IMG_2842.jpg
+        - /imgs/jay/IMG_2843.jpg
+        - /imgs/jay/IMG_2844.jpg
+        - /imgs/jay/IMG_2845.jpg
+        - /imgs/jay/IMG_2847.jpg
+        - /imgs/jay/IMG_2848.jpg
+        - /imgs/jay/IMG_2861.jpg
+        - /imgs/jay/IMG_3293.JPG
+        - /imgs/jay/IMG_4453.JPG
+        - /imgs/jay/IMG_9625.JPG
+        - /imgs/jay/IMG_a8fd.JPG
+        - /imgs/jay/IMG_ab52.JPG
+        - /imgs/jay/IMG_b2bc.JPG
+        - /imgs/jay/IMG_b2dc.JPG
+        - /imgs/jay/IMG_b9e2.JPG
+        - /imgs/jay/IMG_b9e2.JPG
+        - /imgs/jay/IMG_b95e.JPG
+        - /imgs/jay/IMG_b739.JPG
+        - /imgs/jay/IMG_bb9e.JPG
+        - /imgs/jay/IMG_c9e5.JPG
+        - /imgs/jay/IMG_cb5d.JPG
+        - /imgs/jay/IMG_cd83.JPG
+        - /imgs/jay/IMG_cf7b.JPG
+        - /imgs/jay/IMG_d0f1.JPG
+        - /imgs/jay/IMG_e1ae.JPG
+        - /imgs/jay/IMG_f8fc.JPG
+        - /imgs/jay/IMG_fd38.JPG
