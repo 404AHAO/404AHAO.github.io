@@ -9,9 +9,6 @@
             }
         }
     ],
-    "build": {
-        "command": "npm install --legacy-peer-deps && hexo generate"
-    },
     "routes": [
         {
             "src": "/(.*)",
