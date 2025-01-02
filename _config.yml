@@ -6,6 +6,7 @@ author: 阿豪
 language: zh-CN
 timezone: ''
 url: https://ahao.ah.cn
+
 permalink: posts/:abbrlink.html
 permalink_defaults: null
 pretty_urls:
