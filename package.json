@@ -8,8 +8,9 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "dev": "hexo cl && hexo g && hexo s",
-    "line": "hexo cl && hexo g && gulp && hexo algolia && hexo d",
-    "a": "hexo bangumi -u"
+    "line": "hexo cl && hexo g && hexo algolia && hexo d",
+    "a": "hexo bangumi -u",
+    "gu": "gulp"
   },
   "hexo": {
     "version": "7.3.0"
@@ -18,7 +19,6 @@
     "add": "^2.0.6",
     "browserslist": "^4.24.3",
     "caniuse-lite": "^1.0.30001690",
-    "gulp": "^4.0.2",
     "hexo": "^7.0.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-algolia": "^1.3.2",
@@ -30,27 +30,28 @@
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
-    "hexo-generator-index": "^3.0.0",
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-tag": "^2.0.0",
     "hexo-offline": "^3.0.0",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.3.0",
     "hexo-renderer-pug": "^3.0.0",
-    "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
-    "hexo-theme-landscape": "^0.0.3",
     "hexo-wordcount": "^6.0.1",
     "or": "^0.2.0",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
+    "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-fontmin": "^0.7.4",
     "gulp-html-minifier-terser": "^7.1.0",
     "gulp-htmlclean": "^2.7.22",
     "gulp-terser": "^2.1.0",
-    "hexo-cli": "^4.3.2"
+    "hexo-cli": "^4.3.2",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-renderer-marked": "^7.0.0",
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-theme-landscape": "^1.0.0"
   }
 }
