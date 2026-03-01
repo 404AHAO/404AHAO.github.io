@@ -4,6 +4,13 @@ dd = d.getDate();
 y = d.getFullYear();
 
 // 公祭日
+if (m == 9 && dd == 3) {
+    document.getElementsByTagName("html")[0].setAttribute("style", "filter: grayscale(60%);");
+    if (sessionStorage.getItem("isPopupWindow") != "1") {
+        Swal.fire("今天是九月三号抗战胜利" + (y - 1945).toString() + "周年纪念日\n🎉举国欢庆，振兴中华🎉");
+        sessionStorage.setItem("isPopupWindow", "1");
+    }
+}
 if (m == 9 && dd == 18) {
     document.getElementsByTagName("html")[0].setAttribute("style", "filter: grayscale(60%);");
     if (sessionStorage.getItem("isPopupWindow") != "1") {
